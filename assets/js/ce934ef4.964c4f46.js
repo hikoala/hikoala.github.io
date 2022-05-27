@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfront_documentation=self.webpackChunkfront_documentation||[]).push([[85],{3769:function(n){n.exports=JSON.parse('{"plugin":{"name":"docusaurus-plugin-content-docs","id":"default"}}')}}]);
