@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfront_documentation=self.webpackChunkfront_documentation||[]).push([[125],{9266:n=>{n.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"partner-api"}')}}]);
